@@ -23,5 +23,7 @@ NumPy
 MySQL Connector
 Streamlit
 Plotly Express
+
+
 Conclusion
 This project leverages the power of Python and its numerous libraries to extract, transform, and analyze data, and to create a user-friendly dashboard for visualizing the insights obtained from the data. Through the implementation of various data manipulation techniques and the use of interactive visualization tools, this project provides a comprehensive understanding of the transaction data from PhonePe.
