@@ -1,5 +1,7 @@
 PhonePe Pulse Data Visualization and Exploration
+
 Introduction
+
 PhonePe is a transactioning application with millions of users and thousands of transactions every day. To keep track of these transactions, PhonePe has developed a GitHub repository where all the data is stored. The PhonePe Pulse Data Visualization and Exploration project aims to extract data from this GitHub repository and create a dashboard for visualizing and exploring the transaction data. This project serves as an opportunity to practice various Python libraries and data manipulation techniques.
 
 Approach
